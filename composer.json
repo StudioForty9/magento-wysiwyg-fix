@@ -1,0 +1,8 @@
+{
+    "description": "Wysiwyg Thumbnail Generation Fix module",
+    "name": "ctidigital/magento-wysiwyg-fix",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "type": "magento-module"
+}
